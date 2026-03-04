@@ -1,0 +1,36 @@
+#EXTM3U
+
+############################
+# 📺 CANLI TV (RESMİ / PUBLIC)
+############################
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Live TV",NASA TV (Official)
+https://ntv1.mediacdnservice.com/live/nasa/index.m3u8
+
+#EXTINF:-1 tvg-name="DW English" group-title="Live TV",DW English (Official)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews English" group-title="Live TV",Euronews English
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+############################
+# 🎬 FİLM (PUBLIC DOMAIN)
+############################
+
+#EXTINF:-1 group-title="Movies",Night of the Living Dead (1968 - Public Domain)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Movies",Big Buck Bunny (Open Movie)
+https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
+
+
+############################
+# 📺 DİZİ / SERİ (OPEN CONTENT)
+############################
+
+#EXTINF:-1 group-title="Series",Sintel (Open Movie - Episodic Style)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",Tears of Steel (Open Film)
+https://test-streams.mux.dev/tears-of-steel/playlist.m3u8
