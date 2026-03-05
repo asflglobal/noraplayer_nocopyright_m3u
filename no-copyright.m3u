@@ -1,36 +1,36 @@
 #EXTM3U
 
 ############################
-# 📺 CANLI TV (RESMİ / PUBLIC)
+# 📺 LIVE TV (FREE / OFFICIAL)
 ############################
 
-#EXTINF:-1 tvg-name="NASA TV" group-title="Live TV",NASA TV (Official)
-https://ntv1.mediacdnservice.com/live/nasa/index.m3u8
+#EXTINF:-1 tvg-id="nasatv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_TV.svg" group-title="Live TV",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-name="DW English" group-title="Live TV",DW English (Official)
+#EXTINF:-1 tvg-id="dwenglish" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Deutsche_Welle_Logo.svg" group-title="Live TV",DW English
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews English" group-title="Live TV",Euronews English
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Euronews_2016_logo.svg" group-title="Live TV",Euronews English
 https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 ############################
-# 🎬 FİLM (PUBLIC DOMAIN)
+# 🎬 MOVIES (PUBLIC DOMAIN / OPEN MOVIES)
 ############################
 
-#EXTINF:-1 group-title="Movies",Night of the Living Dead (1968 - Public Domain)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Night_of_the_Living_Dead_1968_film_poster.jpg" group-title="Movies",Night of the Living Dead (1968)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 group-title="Movies",Big Buck Bunny (Open Movie)
+#EXTINF:-1 tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" group-title="Movies",Big Buck Bunny (Open Movie)
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
 
 
 ############################
-# 📺 DİZİ / SERİ (OPEN CONTENT)
+# 📺 SERIES / OPEN FILMS
 ############################
 
-#EXTINF:-1 group-title="Series",Sintel (Open Movie - Episodic Style)
+#EXTINF:-1 tvg-logo="https://download.blender.org/durian/poster/sintel_poster.jpg" group-title="Series",Sintel
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Series",Tears of Steel (Open Film)
+#EXTINF:-1 tvg-logo="https://mango.blender.org/wp-content/uploads/2013/05/TOS_Poster.jpg" group-title="Series",Tears of Steel
 https://test-streams.mux.dev/tears-of-steel/playlist.m3u8
