@@ -1,45 +1,44 @@
 #EXTM3U
 
-############################
-# 📺 LIVE TV
-############################
+#EXTINF:-1 tvg-name="Sample 1" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 1
+https://noraplayer.com/downloads/video_1.mp4
 
-#EXTINF:-1 tvg-id="NASA" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_TV.svg" group-title="Live TV",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="Sample 2" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 2
+https://noraplayer.com/downloads/video_2.mp4
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Deutsche_Welle_Logo.svg" group-title="Live TV",DW English
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-name="Sample 3" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 3
+https://noraplayer.com/downloads/video_3.mp4
 
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Euronews_2016_logo.svg" group-title="Live TV",Euronews English
-https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sample 4" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 4
+https://noraplayer.com/downloads/video_4.mp4
 
-#EXTINF:-1 tvg-id="AlJazeera" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="Live TV",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="Sample 5" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 5
+https://noraplayer.com/downloads/video_5.mp4
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_logo.svg" group-title="Live TV",Bloomberg TV
-https://bloomberg-bloomberg-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sample 6" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 6
+https://noraplayer.com/downloads/video_6.mp4
 
-
-############################
-# 🎬 OPEN MOVIES (MUX TEST STREAMS)
-############################
-
-#EXTINF:-1 tvg-name="Big Buck Bunny" tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg" group-title="Open Movies",Big Buck Bunny
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-name="Tears of Steel" tvg-logo="https://mango.blender.org/wp-content/uploads/2013/05/TOS_Poster.jpg" group-title="Open Movies",Tears of Steel
-https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-name="Sample 7" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 7
+https://noraplayer.com/downloads/video_7.mp4
 
 
-############################
-# 🧪 TEST STREAMS
-############################
+#EXTINF:-1 tvg-name="Demo 1" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 1
+https://noraplayer.com/downloads/video_1.mp4
 
-#EXTINF:-1 tvg-name="Mux Test Stream 001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/HLS_Logo.svg" group-title="Test Streams",Mux Test Stream
-https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 tvg-name="Demo 2" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 2
+https://noraplayer.com/downloads/video_2.mp4
 
-#EXTINF:-1 tvg-name="PTS Shift Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/HLS_Logo.svg" group-title="Test Streams",PTS Shift
-https://test-streams.mux.dev/pts_shift/master.m3u8
+#EXTINF:-1 tvg-name="Demo 3" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 3
+https://noraplayer.com/downloads/video_3.mp4
 
-#EXTINF:-1 tvg-name="Sample AES Encryption" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/HLS_Logo.svg" group-title="Test Streams",AES Sample
-https://test-streams.mux.dev/sample-aes/index.m3u8
+#EXTINF:-1 tvg-name="Demo 4" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 4
+https://noraplayer.com/downloads/video_4.mp4
+
+#EXTINF:-1 tvg-name="Demo 5" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 5
+https://noraplayer.com/downloads/video_5.mp4
+
+#EXTINF:-1 tvg-name="Demo 6" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 6
+https://noraplayer.com/downloads/video_6.mp4
+
+#EXTINF:-1 tvg-name="Demo 7" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 7
+https://noraplayer.com/downloads/video_7.mp4
