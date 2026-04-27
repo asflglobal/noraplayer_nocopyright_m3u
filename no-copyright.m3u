@@ -1,44 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sample 1" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 1
-https://noraplayer.com/downloads/video_1.mp4
+#EXTINF:-1 tvg-id="bigbuckbunny" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/100px-Big_buck_bunny_poster_big.jpg" group-title="Demo Movies",Big Buck Bunny
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 tvg-name="Sample 2" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 2
-https://noraplayer.com/downloads/video_2.mp4
+#EXTINF:-1 tvg-id="elephantsdream" tvg-name="Elephants Dream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Elephants_Dream_s1_still_1.jpg/100px-Elephants_Dream_s1_still_1.jpg" group-title="Demo Movies",Elephants Dream
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
-#EXTINF:-1 tvg-name="Sample 3" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 3
-https://noraplayer.com/downloads/video_3.mp4
+#EXTINF:-1 tvg-id="forbiggerblaz" tvg-name="For Bigger Blazes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camponotus_flavomarginatus_ant.jpg/100px-Camponotus_flavomarginatus_ant.jpg" group-title="Demo Movies",For Bigger Blazes
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
 
-#EXTINF:-1 tvg-name="Sample 4" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 4
-https://noraplayer.com/downloads/video_4.mp4
+#EXTINF:-1 tvg-id="tearofsteel" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tears_of_Steel_poster.jpg/100px-Tears_of_Steel_poster.jpg" group-title="Demo Movies",Tears of Steel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
 
-#EXTINF:-1 tvg-name="Sample 5" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 5
-https://noraplayer.com/downloads/video_5.mp4
+#EXTINF:-1 tvg-id="demolive1" tvg-name="Demo Live 1" tvg-logo="" group-title="Demo Live",Demo Live 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
-#EXTINF:-1 tvg-name="Sample 6" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 6
-https://noraplayer.com/downloads/video_6.mp4
+#EXTINF:-1 tvg-id="demolive2" tvg-name="Demo Live 2" tvg-logo="" group-title="Demo Live",Demo Live 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
-#EXTINF:-1 tvg-name="Sample 7" tvg-logo="https://noraplayer.com/downloads/sample.png" group-title="Sample Videos",Sample Video 7
-https://noraplayer.com/downloads/video_7.mp4
-
-
-#EXTINF:-1 tvg-name="Demo 1" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 1
-https://noraplayer.com/downloads/video_1.mp4
-
-#EXTINF:-1 tvg-name="Demo 2" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 2
-https://noraplayer.com/downloads/video_2.mp4
-
-#EXTINF:-1 tvg-name="Demo 3" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 3
-https://noraplayer.com/downloads/video_3.mp4
-
-#EXTINF:-1 tvg-name="Demo 4" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 4
-https://noraplayer.com/downloads/video_4.mp4
-
-#EXTINF:-1 tvg-name="Demo 5" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 5
-https://noraplayer.com/downloads/video_5.mp4
-
-#EXTINF:-1 tvg-name="Demo 6" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 6
-https://noraplayer.com/downloads/video_6.mp4
-
-#EXTINF:-1 tvg-name="Demo 7" tvg-logo="https://noraplayer.com/downloads/demo.jpg" group-title="Demo Library",Demo Clip 7
-https://noraplayer.com/downloads/video_7.mp4
+#EXTINF:-1 tvg-id="demolive3" tvg-name="Demo Live 3" tvg-logo="" group-title="Demo Live",Demo Live 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
